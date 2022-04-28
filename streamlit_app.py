@@ -19,7 +19,6 @@ def prediction(age,salary):
 def main():
 
     # titling your page
-    st.title("cancer Prediction App")
     st.write("Demo application ")
 
     #getting the input
