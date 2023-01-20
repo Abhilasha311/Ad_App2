@@ -35,8 +35,8 @@ def main():
             st.info("This person will buy the product.")
         elif diagnosis=="0":
                 st.info("This person willnot buy the product.")      
-    else:
-        st.error("Try again!")
+    #else:
+        #st.error("Try again!")
 
             
         
